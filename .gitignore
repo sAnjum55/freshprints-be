@@ -1,0 +1,34 @@
+# Node modules directory
+node_modules/
+
+# TypeScript output (compiled files)
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDEs and editor files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# OS-specific files (e.g., Mac, Windows, etc.)
+.DS_Store
+Thumbs.db
+
+# TypeScript declaration files
+*.d.ts
+
+# Package-lock and yarn.lock
+package-lock.json
+yarn.lock
+
+# Coverage reports (e.g., from testing frameworks like Jest)
+coverage/
+
+# Output of ts-node (for running TypeScript directly with ts-node)
+*.tsbuildinfo
