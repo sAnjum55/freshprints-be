@@ -3,7 +3,7 @@
     "id": "1",
     "sizes": {
       "L": {
-        "quantity": 8,
+        "quantity": 10,
         "price": 1000
       },
       "XL": {
@@ -20,7 +20,7 @@
         "price": 700
       },
       "XXL": {
-        "quantity": 6,
+        "quantity": 15,
         "price": 650
       }
     }
@@ -29,7 +29,7 @@
     "id": "3",
     "sizes": {
       "M": {
-        "quantity": 6,
+        "quantity": 12,
         "price": 700
       }
     }

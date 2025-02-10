@@ -1,8 +1,8 @@
 export interface ApparelManipulationParams{
     id: string
     size: string
-    quantity: string
-    price: string
+    quantity: number
+    price: number
 }
 
 export interface OrderItem {
